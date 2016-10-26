@@ -1,0 +1,13 @@
+c:\users\cesar\documents\visual studio 2015\Projects\CRUD_PracticaImpronta\CRUD_PracticaImpronta\bin\Debug\CRUD_PracticaImpronta.exe.config
+C:\Users\Cesar\documents\visual studio 2015\Projects\CRUD_PracticaImpronta\CRUD_PracticaImpronta\obj\Debug\CRUD_PracticaImpronta.csprojResolveAssemblyReference.cache
+C:\Users\Cesar\documents\visual studio 2015\Projects\CRUD_PracticaImpronta\CRUD_PracticaImpronta\obj\Debug\CRUD_PracticaImpronta.Form1.resources
+C:\Users\Cesar\documents\visual studio 2015\Projects\CRUD_PracticaImpronta\CRUD_PracticaImpronta\obj\Debug\CRUD_PracticaImpronta.Properties.Resources.resources
+C:\Users\Cesar\documents\visual studio 2015\Projects\CRUD_PracticaImpronta\CRUD_PracticaImpronta\obj\Debug\CRUD_PracticaImpronta.csproj.GenerateResource.Cache
+C:\Users\Cesar\documents\visual studio 2015\Projects\CRUD_PracticaImpronta\CRUD_PracticaImpronta\bin\Debug\CRUD_PracticaImpronta.exe
+C:\Users\Cesar\documents\visual studio 2015\Projects\CRUD_PracticaImpronta\CRUD_PracticaImpronta\bin\Debug\CRUD_PracticaImpronta.pdb
+C:\Users\Cesar\documents\visual studio 2015\Projects\CRUD_PracticaImpronta\CRUD_PracticaImpronta\obj\Debug\CRUD_PracticaImpronta.exe
+C:\Users\Cesar\documents\visual studio 2015\Projects\CRUD_PracticaImpronta\CRUD_PracticaImpronta\obj\Debug\CRUD_PracticaImpronta.pdb
+C:\Users\Cesar\documents\visual studio 2015\Projects\CRUD_PracticaImpronta\CRUD_PracticaImpronta\obj\Debug\CRUD_PracticaImpronta.RegitroCarrera.resources
+C:\Users\Cesar\documents\visual studio 2015\Projects\CRUD_PracticaImpronta\CRUD_PracticaImpronta\obj\Debug\CRUD_PracticaImpronta.Calendar.resources
+C:\Users\Cesar\documents\visual studio 2015\Projects\CRUD_PracticaImpronta\CRUD_PracticaImpronta\obj\Debug\CRUD_PracticaImpronta.selecCarrera.resources
+C:\Users\Cesar\documents\visual studio 2015\Projects\CRUD_PracticaImpronta\CRUD_PracticaImpronta\obj\Debug\CRUD_PracticaImpronta.Modificar.resources
